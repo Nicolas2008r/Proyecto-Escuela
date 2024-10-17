@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Adolf",
+        "apellido": "Müller",
+        "dni": "21302463",
+        "email": "adolf.muller@gmail.com",
+        "area": "informática"
+    },
+    {
+        "nombre": "Karmela",
+        "apellido": "Schneider.",
+        "dni": "22932146",
+        "email": "katrina.schneider@gmail.com",
+        "area": "construcciones"
+    }
+]

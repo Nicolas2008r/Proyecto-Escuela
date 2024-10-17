@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Enzo",
+        "apellido": "Galli",
+        "dni": "28250988",
+        "email": "enzo.galli@hotmail.com",
+        "anio": "3ro",
+        "divisiones": [
+            "2da",
+            "1ra",
+            "3ra"
+        ]
+    },
+    {
+        "nombre": "Daniela",
+        "apellido": "Greco",
+        "dni": "35212333",
+        "email": "daniela.greco@gmail.com",
+        "anio": "2do",
+        "divisiones": [
+            "2da",
+            "3ra",
+            "1ra"
+        ]
+    },
+    {
+        "nombre": "Federica",
+        "apellido": "Greco",
+        "dni": "24136493",
+        "email": "federica.greco@outlook.com",
+        "anio": "6to",
+        "divisiones": [
+            "2da",
+            "1ra",
+            "3ra"
+        ]
+    },
+    {
+        "nombre": "Leonardo",
+        "apellido": "Moretti",
+        "dni": "20658025",
+        "email": "leonardo.moretti@hotmail.com",
+        "anio": "5to",
+        "divisiones": [
+            "2da",
+            "3ra",
+            "1ra"
+        ]
+    },
+    {
+        "nombre": "Carlo",
+        "apellido": "Greco",
+        "dni": "26376233",
+        "email": "carlo.greco@gmail.com",
+        "anio": "2do",
+        "divisiones": [
+            "2da",
+            "3ra",
+            "1ra"
+        ]
+    },
+    {
+        "nombre": "Isabella",
+        "apellido": "Russo",
+        "dni": "34951083",
+        "email": "isabella.russo@outlook.com",
+        "anio": "4to",
+        "divisiones": [
+            "1ra",
+            "3ra",
+            "2da"
+        ]
+    },
+    {
+        "nombre": "Alessandro",
+        "apellido": "Colombo",
+        "dni": "30239885",
+        "email": "alessandro.colombo@yahoo.com",
+        "anio": "3ro",
+        "divisiones": [
+            "2da",
+            "3ra",
+            "1ra"
+        ]
+    },
+    {
+        "nombre": "Carlo",
+        "apellido": "Colombo",
+        "dni": "22887789",
+        "email": "carlo.colombo@outlook.com",
+        "anio": "5to",
+        "divisiones": [
+            "2da",
+            "1ra",
+            "3ra"
+        ]
+    },
+    {
+        "nombre": "Martina",
+        "apellido": "Greco",
+        "dni": "33108375",
+        "email": "martina.greco@yahoo.com",
+        "anio": "6to",
+        "divisiones": [
+            "3ra",
+            "2da",
+            "1ra"
+        ]
+    },
+    {
+        "nombre": "Isabella",
+        "apellido": "Galli",
+        "dni": "21972984",
+        "email": "isabella.galli@yahoo.com",
+        "anio": "2do",
+        "divisiones": [
+            "2da",
+            "3ra",
+            "1ra"
+        ]
+    }
+]

@@ -1,0 +1,2317 @@
+[
+    {
+        "email": "alejandro.davo@gmail.com",
+        "password": "Jtsvmkzhvcz3929",
+        "role": "alumno"
+    },
+    {
+        "email": "alejandro.fernandez@gmail.com",
+        "password": "Wkulhrshzpp1658",
+        "role": "alumno"
+    },
+    {
+        "email": "alejandro.lopez@gmail.com",
+        "password": "Ocxcounnilt8829",
+        "role": "alumno"
+    },
+    {
+        "email": "alejandro.martin@gmail.com",
+        "password": "Hjqtozyjnja9357",
+        "role": "alumno"
+    },
+    {
+        "email": "alejandro.rodriguez@gmail.com",
+        "password": "Fspjzifxnpn8838",
+        "role": "alumno"
+    },
+    {
+        "email": "alejandro.soto@gmail.com",
+        "password": "Snwywkeglqg4696",
+        "role": "alumno"
+    },
+    {
+        "email": "alejandro.torres@gmail.com",
+        "password": "Iyzihiawour8201",
+        "role": "alumno"
+    },
+    {
+        "email": "alejandro.vargas@gmail.com",
+        "password": "Nounqwghbhn0392",
+        "role": "alumno"
+    },
+    {
+        "email": "ana.cabana@gmail.com",
+        "password": "Xtiknigmbnd6934",
+        "role": "alumno"
+    },
+    {
+        "email": "ana.castro@gmail.com",
+        "password": "Kzetxctmrmi1407",
+        "role": "alumno"
+    },
+    {
+        "email": "ana.gomez@gmail.com",
+        "password": "Gvzpjvgxdop7715",
+        "role": "alumno"
+    },
+    {
+        "email": "ana.schuff@gmail.com",
+        "password": "Wvlpzflqqza5250",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.gonzalez@gmail.com",
+        "password": "Joolrdusqkx7489",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.lopez@gmail.com",
+        "password": "Nowzppxbpqi3311",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.martinez@gmail.com",
+        "password": "Kmpovvnpbkh7212",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.perez@gmail.com",
+        "password": "Camoamjitwd1596",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.rodriguez@gmail.com",
+        "password": "Hlaxkhcodjg7739",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.ruiz@gmail.com",
+        "password": "Nylxcwwwmrv9629",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.silva@gmail.com",
+        "password": "Yvckyzfbeyo5389",
+        "role": "alumno"
+    },
+    {
+        "email": "antonio.soto@gmail.com",
+        "password": "Vdfrmberjoo7595",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.cabana@gmail.com",
+        "password": "Tmuxskjuafv1045",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.davo@gmail.com",
+        "password": "Tviuyfvghjw2893",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.gomez@gmail.com",
+        "password": "Xlaqfetsnsk4695",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.gonzales@gmail.com",
+        "password": "Axdcmnwtvck6142",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.gonzalez@gmail.com",
+        "password": "Vsgcxqsscuz2314",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.martin@gmail.com",
+        "password": "Pwooqglobvv1819",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.pettinato@gmail.com",
+        "password": "Hzevzuvddgh9335",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.romero@gmail.com",
+        "password": "Admqcwogafp7385",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.schuff@gmail.com",
+        "password": "Fgsucwrccdv0150",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.silva@gmail.com",
+        "password": "Xztxfsmqthm8008",
+        "role": "alumno"
+    },
+    {
+        "email": "camila.soto@gmail.com",
+        "password": "Vbsfplamlkq7058",
+        "role": "alumno"
+    },
+    {
+        "email": "carlos.cabana@gmail.com",
+        "password": "Asyrqlbjlak3512",
+        "role": "alumno"
+    },
+    {
+        "email": "carlos.goulan@gmail.com",
+        "password": "Clzxygewhzy8314",
+        "role": "alumno"
+    },
+    {
+        "email": "carlos.lopez@gmail.com",
+        "password": "Kfvqlmhpkyk6209",
+        "role": "alumno"
+    },
+    {
+        "email": "carlos.martinez@gmail.com",
+        "password": "Lacdmkdnmaa3225",
+        "role": "alumno"
+    },
+    {
+        "email": "carlos.romero@gmail.com",
+        "password": "Ljvybbcjyov9825",
+        "role": "alumno"
+    },
+    {
+        "email": "carlos.schuff@gmail.com",
+        "password": "Fldtzzqougn9269",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.castro@gmail.com",
+        "password": "Uxriuvrxlrc0035",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.davo@gmail.com",
+        "password": "Ltilcskherz6388",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.diaz@gmail.com",
+        "password": "Gbavtpalpgv8661",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.gomez@gmail.com",
+        "password": "Hqiktgnrqpl8183",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.goulan@gmail.com",
+        "password": "Ztkcduitnmn3444",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.lopez@gmail.com",
+        "password": "Vxmxboiluvq5259",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.martinez@gmail.com",
+        "password": "Gduuxxwyvhi4316",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.perez@gmail.com",
+        "password": "Womjkrjrxiv6028",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.pettinato@gmail.com",
+        "password": "Tazkvgfsbve9359",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.schuff@gmail.com",
+        "password": "Gzhrjjqhaxt6242",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.soto@gmail.com",
+        "password": "Odgrfadxdhy9240",
+        "role": "alumno"
+    },
+    {
+        "email": "cristiano.torres@gmail.com",
+        "password": "Ngqwxwybyfq8952",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.castro@gmail.com",
+        "password": "Jzpwayhwubv3793",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.gonzalez@gmail.com",
+        "password": "Drbkokdxndh3026",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.goulan@gmail.com",
+        "password": "Ritkitopiba1570",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.lopez@gmail.com",
+        "password": "Cxrrvusczjy2084",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.martinez@gmail.com",
+        "password": "Zvsqeksmsif4625",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.perez@gmail.com",
+        "password": "Ebxyeytvjcr9896",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.romero@gmail.com",
+        "password": "Wngszhrgpao5202",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.soto@gmail.com",
+        "password": "Xulnbkexawc2354",
+        "role": "alumno"
+    },
+    {
+        "email": "gabriela.vargas@gmail.com",
+        "password": "Qpgvpqnglnf4208",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.cabana@gmail.com",
+        "password": "Dcxbubeenqm2306",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.castro@gmail.com",
+        "password": "Alftqwrpagw6497",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.davo@gmail.com",
+        "password": "Ykebfzssjhn9310",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.diaz@gmail.com",
+        "password": "Zdpyppsnzoz7766",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.fernandez@gmail.com",
+        "password": "Ifuplqghyhi2744",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.gonzalez@gmail.com",
+        "password": "Gkenwhsufxq5909",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.goulan@gmail.com",
+        "password": "Yznzfhuienb9558",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.lopez@gmail.com",
+        "password": "Gevuatybnxw1052",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.silva@gmail.com",
+        "password": "Fqgbqybovev7119",
+        "role": "alumno"
+    },
+    {
+        "email": "hernan.soto@gmail.com",
+        "password": "Ggboooenfus5586",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.cabana@gmail.com",
+        "password": "Jjmqopjbdye7431",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.davo@gmail.com",
+        "password": "Mlbcyzcpuxm1391",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.fernandez@gmail.com",
+        "password": "Bqiooqlppub0956",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.gonzales@gmail.com",
+        "password": "Jnwodcpcsgj4508",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.gonzalez@gmail.com",
+        "password": "Xcwnfqhwwvf7039",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.ruiz@gmail.com",
+        "password": "Hbzzezqttoy9476",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.torres@gmail.com",
+        "password": "Wkseagkyomv1300",
+        "role": "alumno"
+    },
+    {
+        "email": "isabella.vargas@gmail.com",
+        "password": "Ccnzerggvyg0672",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.cabana@gmail.com",
+        "password": "Zclrbjifgfl4742",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.diaz@gmail.com",
+        "password": "Vspsmprlmaf8859",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.gomez@gmail.com",
+        "password": "Abjkzcbcsmc2385",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.gonzales@gmail.com",
+        "password": "Jvsaamrzils1420",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.gonzalez@gmail.com",
+        "password": "Ixrhmgngavw0245",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.martinez@gmail.com",
+        "password": "Tbpfoaxfjts1381",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.perez@gmail.com",
+        "password": "Dmjfyiesade2378",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.romero@gmail.com",
+        "password": "Qhohdkmiekx8112",
+        "role": "alumno"
+    },
+    {
+        "email": "jose.soto@gmail.com",
+        "password": "Morrvjwjwcw0035",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.castro@gmail.com",
+        "password": "Jmovvyossat7940",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.davo@gmail.com",
+        "password": "Pfujdvkryea9266",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.gomez@gmail.com",
+        "password": "Zrgreilnjzm7226",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.gonzalez@gmail.com",
+        "password": "Dtngqgvqhhg1089",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.goulan@gmail.com",
+        "password": "Bcxmgpwvsfz6788",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.martinez@gmail.com",
+        "password": "Loisjvntaik6883",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.perez@gmail.com",
+        "password": "Gzjfhfwsfcn8601",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.rodriguez@gmail.com",
+        "password": "Hzbtikdpncw2122",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.romero@gmail.com",
+        "password": "Zinqmyreaqi1794",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.soto@gmail.com",
+        "password": "Ahrzsnkkyjd0221",
+        "role": "alumno"
+    },
+    {
+        "email": "juan.vargas@gmail.com",
+        "password": "Hdhbxhlxzef7016",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.cabana@gmail.com",
+        "password": "Omxsddgryqh4269",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.davo@gmail.com",
+        "password": "Ryfzxhksggd9200",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.fernandez@gmail.com",
+        "password": "Ufsmwofdwbk9853",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.gomez@gmail.com",
+        "password": "Vadmhrcuzka4754",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.gonzalez@gmail.com",
+        "password": "Eowgadlqhjn2541",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.goulan@gmail.com",
+        "password": "Nndgqaspsxh1945",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.martinez@gmail.com",
+        "password": "Xrgqxnxepfk5270",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.pettinato@gmail.com",
+        "password": "Oocadgstxay4498",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.rodriguez@gmail.com",
+        "password": "Bklyiwfrald4149",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.ruiz@gmail.com",
+        "password": "Urmiqzaxsaq4670",
+        "role": "alumno"
+    },
+    {
+        "email": "laura.silva@gmail.com",
+        "password": "Jftyexphanx0293",
+        "role": "alumno"
+    },
+    {
+        "email": "lionel.fernandez@gmail.com",
+        "password": "Bjdukvnhzqh2456",
+        "role": "alumno"
+    },
+    {
+        "email": "lionel.gomez@gmail.com",
+        "password": "Jszpvggefsg5053",
+        "role": "alumno"
+    },
+    {
+        "email": "lionel.gonzales@gmail.com",
+        "password": "Cfildccpeza0836",
+        "role": "alumno"
+    },
+    {
+        "email": "lionel.pettinato@gmail.com",
+        "password": "Ukaxaeymkbb7785",
+        "role": "alumno"
+    },
+    {
+        "email": "lionel.torres@gmail.com",
+        "password": "Ldqusxjjqph6317",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.davo@gmail.com",
+        "password": "Ujcvxrayjxz4020",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.diaz@gmail.com",
+        "password": "Zmmxeoosgif6100",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.gomez@gmail.com",
+        "password": "Vnofjtqcbim3536",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.gonzales@gmail.com",
+        "password": "Jhhdiyhnjod1199",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.goulan@gmail.com",
+        "password": "Rdpeczdimsx4339",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.lopez@gmail.com",
+        "password": "Omzlpitvhhb8745",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.martin@gmail.com",
+        "password": "Cvmzwnnzlcb9201",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.martinez@gmail.com",
+        "password": "Gbqlitadbqf5843",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.perez@gmail.com",
+        "password": "Woyltxbwgay2413",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.pettinato@gmail.com",
+        "password": "Gaoyvwuurmq5935",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.schuff@gmail.com",
+        "password": "Xeoarnxxuwp5417",
+        "role": "alumno"
+    },
+    {
+        "email": "lucas.soto@gmail.com",
+        "password": "Eoxvyyystje3160",
+        "role": "alumno"
+    },
+    {
+        "email": "maria.cabana@gmail.com",
+        "password": "Imjlanhoecd4266",
+        "role": "alumno"
+    },
+    {
+        "email": "maria.davo@gmail.com",
+        "password": "Lmvtxvihike1849",
+        "role": "alumno"
+    },
+    {
+        "email": "maria.gonzalez@gmail.com",
+        "password": "Tqytpvrraig2098",
+        "role": "alumno"
+    },
+    {
+        "email": "maria.pettinato@gmail.com",
+        "password": "Xxjussnlfzi5126",
+        "role": "alumno"
+    },
+    {
+        "email": "maria.rodriguez@gmail.com",
+        "password": "Pqdplwqqavd9325",
+        "role": "alumno"
+    },
+    {
+        "email": "maria.torres@gmail.com",
+        "password": "Siibvxyczjc1987",
+        "role": "alumno"
+    },
+    {
+        "email": "maria.vargas@gmail.com",
+        "password": "Mjdlehdxivr5043",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.cabana@gmail.com",
+        "password": "Mycbvxeegkp7510",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.gomez@gmail.com",
+        "password": "Dxzcichgsaj5522",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.gonzales@gmail.com",
+        "password": "Uzerahsqcme1338",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.goulan@gmail.com",
+        "password": "Opouurekrew2290",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.martin@gmail.com",
+        "password": "Fcnqbqogotn6967",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.perez@gmail.com",
+        "password": "Csdccvhsucu7896",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.pettinato@gmail.com",
+        "password": "Kzpxifskrgn8270",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.rodriguez@gmail.com",
+        "password": "Hmcstwlukio6840",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.ruiz@gmail.com",
+        "password": "Qukrxqjfoby3020",
+        "role": "alumno"
+    },
+    {
+        "email": "martin.silva@gmail.com",
+        "password": "Xcsfctkxuue7648",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.davo@gmail.com",
+        "password": "Eqffzkhqegu4641",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.fernandez@gmail.com",
+        "password": "Zoqdkygzkiq0360",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.gonzalez@gmail.com",
+        "password": "Euzreqtqmaa9553",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.lopez@gmail.com",
+        "password": "Ricrymdjmlk9830",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.martin@gmail.com",
+        "password": "Nabdspmjxgt3217",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.perez@gmail.com",
+        "password": "Ejxhvdxxjwq4889",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.rodriguez@gmail.com",
+        "password": "Hmyabaksazt6945",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.romero@gmail.com",
+        "password": "Zgguntwelug5361",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.silva@gmail.com",
+        "password": "Yfmapmhyrev7503",
+        "role": "alumno"
+    },
+    {
+        "email": "mia.soto@gmail.com",
+        "password": "Uxigiajpnii3769",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.gomez@gmail.com",
+        "password": "Sthcwplytjr0004",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.gonzalez@gmail.com",
+        "password": "Zcwhvslkztb2458",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.martin@gmail.com",
+        "password": "Smuuaopvklr6219",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.perez@gmail.com",
+        "password": "Behybehibbm2821",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.pettinato@gmail.com",
+        "password": "Wtnqtxzgnyq7980",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.romero@gmail.com",
+        "password": "Gxctsdgrgww8270",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.soto@gmail.com",
+        "password": "Fntyxnddzuj7775",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.torres@gmail.com",
+        "password": "Adxbvmnqwsw7792",
+        "role": "alumno"
+    },
+    {
+        "email": "natalia.vargas@gmail.com",
+        "password": "Ddtquelxvxx6100",
+        "role": "alumno"
+    },
+    {
+        "email": "ricardo.cabana@gmail.com",
+        "password": "Vewtnibpqgc3407",
+        "role": "alumno"
+    },
+    {
+        "email": "ricardo.diaz@gmail.com",
+        "password": "Mqayewwxmik0513",
+        "role": "alumno"
+    },
+    {
+        "email": "ricardo.fernandez@gmail.com",
+        "password": "Tqndbtsicch0826",
+        "role": "alumno"
+    },
+    {
+        "email": "ricardo.gonzales@gmail.com",
+        "password": "Epevirrjsrm5940",
+        "role": "alumno"
+    },
+    {
+        "email": "ricardo.lopez@gmail.com",
+        "password": "Vlrfqtydcyy2646",
+        "role": "alumno"
+    },
+    {
+        "email": "ricardo.rodriguez@gmail.com",
+        "password": "Abjbjkmonge6227",
+        "role": "alumno"
+    },
+    {
+        "email": "ricardo.silva@gmail.com",
+        "password": "Aerovpaumnq6359",
+        "role": "alumno"
+    },
+    {
+        "email": "rodrigo.cabana@gmail.com",
+        "password": "Jjhwgaelzwd8550",
+        "role": "alumno"
+    },
+    {
+        "email": "rodrigo.diaz@gmail.com",
+        "password": "Lfnzdwfuqql6732",
+        "role": "alumno"
+    },
+    {
+        "email": "rodrigo.fernandez@gmail.com",
+        "password": "Jrcbkjptyeu0731",
+        "role": "alumno"
+    },
+    {
+        "email": "rodrigo.gomez@gmail.com",
+        "password": "Estzhifzrjk8369",
+        "role": "alumno"
+    },
+    {
+        "email": "rodrigo.martin@gmail.com",
+        "password": "Artjwxffqdu6974",
+        "role": "alumno"
+    },
+    {
+        "email": "rodrigo.soto@gmail.com",
+        "password": "Mhxjeqrssjt3272",
+        "role": "alumno"
+    },
+    {
+        "email": "sofia.davo@gmail.com",
+        "password": "Fsenyfrsqnz1131",
+        "role": "alumno"
+    },
+    {
+        "email": "sofia.diaz@gmail.com",
+        "password": "Ycnwnbvexpz9872",
+        "role": "alumno"
+    },
+    {
+        "email": "sofia.gomez@gmail.com",
+        "password": "Jdxtwoffqpz4708",
+        "role": "alumno"
+    },
+    {
+        "email": "sofia.gonzales@gmail.com",
+        "password": "Degkorpeeun0564",
+        "role": "alumno"
+    },
+    {
+        "email": "sofia.martin@gmail.com",
+        "password": "Hlzdvfqtgsy1775",
+        "role": "alumno"
+    },
+    {
+        "email": "sofia.martinez@gmail.com",
+        "password": "Cqonhbillci2465",
+        "role": "alumno"
+    },
+    {
+        "email": "sofia.silva@gmail.com",
+        "password": "Avszthmvlxr7869",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.cabana@gmail.com",
+        "password": "Mairrjeevzf0666",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.gonzales@gmail.com",
+        "password": "Eatdqfbsfjb5342",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.gonzalez@gmail.com",
+        "password": "Mfkmwvpsqeu1010",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.martin@gmail.com",
+        "password": "Tznwxmhpkga3595",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.perez@gmail.com",
+        "password": "Tbavoxiuayi4940",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.pettinato@gmail.com",
+        "password": "Tpzialqggjc3017",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.rodriguez@gmail.com",
+        "password": "Nkbklruattq9203",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.ruiz@gmail.com",
+        "password": "Sabxgtkhunk9769",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.schuff@gmail.com",
+        "password": "Ucrcykeyhde7680",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.vargas@gmail.com",
+        "password": "Znkswxcicnw1538",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.cabana@gmail.com",
+        "password": "Cntmxgsxato3581",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.castro@gmail.com",
+        "password": "Opvnalghfqb7352",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.davo@gmail.com",
+        "password": "Pbcerquvzsk5899",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.gomez@gmail.com",
+        "password": "Hpibosbcfwt8997",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.martin@gmail.com",
+        "password": "Wofecxjzndr2668",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.pettinato@gmail.com",
+        "password": "Lzujyarzszr7488",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.romero@gmail.com",
+        "password": "Vyhrsuqzalt8505",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.soto@gmail.com",
+        "password": "Yscrctfldwp4654",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.torres@gmail.com",
+        "password": "Inrdtlgjjug4608",
+        "role": "alumno"
+    },
+    {
+        "email": "veronica.vargas@gmail.com",
+        "password": "Aqtmqkkggsp1903",
+        "role": "alumno"
+    },
+    {
+        "email": "tatiana.soto@hotmail.com",
+        "password": "Rgsmvayuxte3575",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.martinez@yahoo.com",
+        "password": "Komdysqjmxq2710",
+        "role": "padre"
+    },
+    {
+        "email": "maria.lopez@gmail.com",
+        "password": "Rfjeghnhpnf7123",
+        "role": "padre"
+    },
+    {
+        "email": "jose.pettinato@yahoo.com",
+        "password": "Iqiawocgqpc2916",
+        "role": "padre"
+    },
+    {
+        "email": "ana.davo@gmail.com",
+        "password": "Zwgonlzxotx5700",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.diaz@outlook.com",
+        "password": "Caytgxvqocw2691",
+        "role": "padre"
+    },
+    {
+        "email": "ana.diaz@outlook.com",
+        "password": "Fmawmlmfkhc5349",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.rodriguez@hotmail.com",
+        "password": "Vesizbjnlcc2046",
+        "role": "padre"
+    },
+    {
+        "email": "jose.perez@yahoo.com",
+        "password": "Dbtakpdzzyj2213",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.martinez@hotmail.com",
+        "password": "Zcllkvzqiuz6898",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.gomez@outlook.com",
+        "password": "Axucoavhjsu3502",
+        "role": "padre"
+    },
+    {
+        "email": "camila.schuff@gmail.com",
+        "password": "Cjfkhsgcmrg7240",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.diaz@yahoo.com",
+        "password": "Zxhuyupbqwz3200",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.gomez@yahoo.com",
+        "password": "Vhcfjwaadac9573",
+        "role": "padre"
+    },
+    {
+        "email": "mia.lopez@gmail.com",
+        "password": "Dnimlzwfyuw3853",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.fernandez@outlook.com",
+        "password": "Ocypvsjtgpo6477",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.soto@yahoo.com",
+        "password": "Popqylipkrg2795",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.lopez@yahoo.com",
+        "password": "Bjoywayyzbn2804",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.ruiz@yahoo.com",
+        "password": "Jgzawrbfmai8354",
+        "role": "padre"
+    },
+    {
+        "email": "camila.schuff@gmail.com",
+        "password": "Vtzufpxvuff9774",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.gomez@gmail.com",
+        "password": "Qwtaxpastcs6829",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.diaz@outlook.com",
+        "password": "Tzvxlgkafti6383",
+        "role": "padre"
+    },
+    {
+        "email": "laura.rodriguez@yahoo.com",
+        "password": "Okywktgvelw5871",
+        "role": "padre"
+    },
+    {
+        "email": "camila.fernandez@yahoo.com",
+        "password": "Cimqlyylpyh9244",
+        "role": "padre"
+    },
+    {
+        "email": "martin.gonzalez@outlook.com",
+        "password": "Rrbzphdyzhi3436",
+        "role": "padre"
+    },
+    {
+        "email": "juan.diaz@gmail.com",
+        "password": "Injwyaznpjn7056",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.gonzalez@yahoo.com",
+        "password": "Kfrhhqthdcz7750",
+        "role": "padre"
+    },
+    {
+        "email": "laura.gonzales@yahoo.com",
+        "password": "Swngftgzkay9208",
+        "role": "padre"
+    },
+    {
+        "email": "laura.ruiz@outlook.com",
+        "password": "Idwklvvwlbi9478",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.davo@gmail.com",
+        "password": "Jefetlrpbbq2648",
+        "role": "padre"
+    },
+    {
+        "email": "martin.pettinato@gmail.com",
+        "password": "Mvpwbfvjeuy1688",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.davo@yahoo.com",
+        "password": "Jddcfbxhoxu8105",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.goulan@yahoo.com",
+        "password": "Inzctlmwsbo5819",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.fernandez@yahoo.com",
+        "password": "Gsmpermhrwv4594",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.ruiz@gmail.com",
+        "password": "Sthtcyfvafz3334",
+        "role": "padre"
+    },
+    {
+        "email": "camila.soto@outlook.com",
+        "password": "Szikyohcowc5389",
+        "role": "padre"
+    },
+    {
+        "email": "ana.gonzales@hotmail.com",
+        "password": "Zagtmwegnek7340",
+        "role": "padre"
+    },
+    {
+        "email": "mia.torres@hotmail.com",
+        "password": "Rvthnqxcbbr0449",
+        "role": "padre"
+    },
+    {
+        "email": "laura.cabana@outlook.com",
+        "password": "Aqvmfcczxiy2287",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.rodriguez@outlook.com",
+        "password": "Gyylzbyrasv1889",
+        "role": "padre"
+    },
+    {
+        "email": "maria.rodriguez@hotmail.com",
+        "password": "Vzxcixrccij8505",
+        "role": "padre"
+    },
+    {
+        "email": "jose.schuff@outlook.com",
+        "password": "Scrgbfuswgw7766",
+        "role": "padre"
+    },
+    {
+        "email": "martin.pettinato@gmail.com",
+        "password": "Pvbzwuavbyh0475",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.perez@gmail.com",
+        "password": "Vubhqzinchg0946",
+        "role": "padre"
+    },
+    {
+        "email": "martin.lopez@gmail.com",
+        "password": "Gxxfcmhgbph4429",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.fernandez@hotmail.com",
+        "password": "Kysffbfmgms4064",
+        "role": "padre"
+    },
+    {
+        "email": "jose.davo@gmail.com",
+        "password": "Xnwcptppnoh3788",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.diaz@yahoo.com",
+        "password": "Hezhaspmgsj1668",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.schuff@outlook.com",
+        "password": "Afjwqdngjjv5666",
+        "role": "padre"
+    },
+    {
+        "email": "mia.gonzalez@outlook.com",
+        "password": "Qqshxubfyst6252",
+        "role": "padre"
+    },
+    {
+        "email": "laura.pettinato@outlook.com",
+        "password": "Lxviokkjteb6425",
+        "role": "padre"
+    },
+    {
+        "email": "mia.torres@outlook.com",
+        "password": "Ftwuzukxglc3816",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.goulan@outlook.com",
+        "password": "Ylphwwpeisb5883",
+        "role": "padre"
+    },
+    {
+        "email": "ana.schuff@outlook.com",
+        "password": "Ybvvqdqwapv3922",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.fernandez@gmail.com",
+        "password": "Yrjbnzimqhl4354",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.perez@outlook.com",
+        "password": "Gtixjzeufnt5590",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.goulan@outlook.com",
+        "password": "Chynunwhubo8113",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.diaz@hotmail.com",
+        "password": "Asvcxseayeb8902",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.gonzalez@outlook.com",
+        "password": "Yndhueodnzq5236",
+        "role": "padre"
+    },
+    {
+        "email": "ana.soto@gmail.com",
+        "password": "Wwqoncvakbo4562",
+        "role": "padre"
+    },
+    {
+        "email": "martin.torres@gmail.com",
+        "password": "Zqwmzmqkdiq4151",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.pettinato@gmail.com",
+        "password": "Tpwpqrjjiik9050",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.martinez@outlook.com",
+        "password": "Svrttuvrejp0476",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.soto@yahoo.com",
+        "password": "Serauprbdwu7199",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.gonzalez@gmail.com",
+        "password": "Fnxxnyexqyu5764",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.perez@hotmail.com",
+        "password": "Rcksednhxff5525",
+        "role": "padre"
+    },
+    {
+        "email": "ana.diaz@yahoo.com",
+        "password": "Prfjbkvqrfv1180",
+        "role": "padre"
+    },
+    {
+        "email": "jose.fernandez@hotmail.com",
+        "password": "Fyemocycgyd0041",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.gonzales@gmail.com",
+        "password": "Sevhpdfirxe0683",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.torres@gmail.com",
+        "password": "Scpjhjltwsq9868",
+        "role": "padre"
+    },
+    {
+        "email": "camila.pettinato@outlook.com",
+        "password": "Wdtnhkvqzlu1803",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.soto@outlook.com",
+        "password": "Nwhsbsnrtpw9238",
+        "role": "padre"
+    },
+    {
+        "email": "laura.gomez@gmail.com",
+        "password": "Jlmvsqjrdbl5325",
+        "role": "padre"
+    },
+    {
+        "email": "mia.fernandez@gmail.com",
+        "password": "Bntyqsffjib4046",
+        "role": "padre"
+    },
+    {
+        "email": "camila.pettinato@gmail.com",
+        "password": "Vletojtdllj7569",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.soto@outlook.com",
+        "password": "Ksyiuopmqan6516",
+        "role": "padre"
+    },
+    {
+        "email": "mia.gonzales@gmail.com",
+        "password": "Cseekscczxv3342",
+        "role": "padre"
+    },
+    {
+        "email": "martin.torres@yahoo.com",
+        "password": "Zdwgxyyntyt3992",
+        "role": "padre"
+    },
+    {
+        "email": "laura.cabana@yahoo.com",
+        "password": "Epgodeozyoh5354",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.martinez@yahoo.com",
+        "password": "Qexhboltdhq5291",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.pettinato@yahoo.com",
+        "password": "Prtaaoxzmni7865",
+        "role": "padre"
+    },
+    {
+        "email": "mia.goulan@gmail.com",
+        "password": "Dpxludtfzex2472",
+        "role": "padre"
+    },
+    {
+        "email": "maria.diaz@gmail.com",
+        "password": "Ngzldylzfgm9123",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.soto@gmail.com",
+        "password": "Pwqtlimujmv2805",
+        "role": "padre"
+    },
+    {
+        "email": "martin.perez@outlook.com",
+        "password": "Wffclbzozpm0771",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.lopez@yahoo.com",
+        "password": "Lvgtlfuzetm6697",
+        "role": "padre"
+    },
+    {
+        "email": "jose.schuff@hotmail.com",
+        "password": "Fftozmiimbh5732",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.gomez@outlook.com",
+        "password": "Ulyuohxoljv3185",
+        "role": "padre"
+    },
+    {
+        "email": "camila.torres@yahoo.com",
+        "password": "Ftujrxgfhzh9929",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.cabana@gmail.com",
+        "password": "Ekqwxfipnpo5124",
+        "role": "padre"
+    },
+    {
+        "email": "juan.diaz@hotmail.com",
+        "password": "Rvasxtsobch2641",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.goulan@yahoo.com",
+        "password": "Tkyfoeibwsg1747",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.fernandez@yahoo.com",
+        "password": "Esjomuxqlvu2204",
+        "role": "padre"
+    },
+    {
+        "email": "laura.pettinato@outlook.com",
+        "password": "Vdggpgfilrk4670",
+        "role": "padre"
+    },
+    {
+        "email": "laura.lopez@outlook.com",
+        "password": "Yngasxqejst8782",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.rodriguez@gmail.com",
+        "password": "Yahfyewkdsf9638",
+        "role": "padre"
+    },
+    {
+        "email": "camila.gonzalez@outlook.com",
+        "password": "Vfgstxuntbb8758",
+        "role": "padre"
+    },
+    {
+        "email": "mia.martinez@outlook.com",
+        "password": "Uiuuezsukwi7329",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.gonzales@yahoo.com",
+        "password": "Szvgvlgbzhr2949",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.cabana@outlook.com",
+        "password": "Jtgqqqkrggx3765",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.martinez@gmail.com",
+        "password": "Mqlnxvlynlp9118",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.lopez@outlook.com",
+        "password": "Dptteoxxcgo5563",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.gonzales@hotmail.com",
+        "password": "Tqkqueqrzya3727",
+        "role": "padre"
+    },
+    {
+        "email": "mia.soto@gmail.com",
+        "password": "Ecbugojarkl1151",
+        "role": "padre"
+    },
+    {
+        "email": "mia.cabana@gmail.com",
+        "password": "Bbkpxozgyal4470",
+        "role": "padre"
+    },
+    {
+        "email": "laura.cabana@hotmail.com",
+        "password": "Mbfphvuqsao5521",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.schuff@outlook.com",
+        "password": "Arblkzzpszs7703",
+        "role": "padre"
+    },
+    {
+        "email": "jose.martinez@hotmail.com",
+        "password": "Mxzazoimjhp2089",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.schuff@hotmail.com",
+        "password": "Buwxkcphhvx5552",
+        "role": "padre"
+    },
+    {
+        "email": "mia.rodriguez@gmail.com",
+        "password": "Mtqdpoowxvb3583",
+        "role": "padre"
+    },
+    {
+        "email": "laura.gonzales@outlook.com",
+        "password": "Wxyxooafpkc5761",
+        "role": "padre"
+    },
+    {
+        "email": "camila.lopez@gmail.com",
+        "password": "Yjzgahamkkf1879",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.goulan@yahoo.com",
+        "password": "Kxninkzfrwt0526",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.perez@hotmail.com",
+        "password": "Olkudjnkcfj8280",
+        "role": "padre"
+    },
+    {
+        "email": "laura.ruiz@gmail.com",
+        "password": "Jwctirnfdvw7087",
+        "role": "padre"
+    },
+    {
+        "email": "laura.fernandez@outlook.com",
+        "password": "Tstgqvktohb7594",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.soto@hotmail.com",
+        "password": "Nziiawmmvjf7047",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.rodriguez@outlook.com",
+        "password": "Ypkiktwvsnv6990",
+        "role": "padre"
+    },
+    {
+        "email": "laura.goulan@yahoo.com",
+        "password": "Vvzqihojfvm0819",
+        "role": "padre"
+    },
+    {
+        "email": "mia.davo@outlook.com",
+        "password": "Fevwiddawno5900",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.pettinato@yahoo.com",
+        "password": "Srgrigtjhtm9300",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.soto@gmail.com",
+        "password": "Tktrdhoutbw5662",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.diaz@hotmail.com",
+        "password": "Diwsppodusl9320",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.ruiz@gmail.com",
+        "password": "Nrynfsywqdd1173",
+        "role": "padre"
+    },
+    {
+        "email": "mia.pettinato@gmail.com",
+        "password": "Qqmrzeaeyha7417",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.schuff@gmail.com",
+        "password": "Iwohktblreh4278",
+        "role": "padre"
+    },
+    {
+        "email": "juan.gonzales@gmail.com",
+        "password": "Nxjpjbzgsrz4033",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.davo@hotmail.com",
+        "password": "Xcmwevgfghu0194",
+        "role": "padre"
+    },
+    {
+        "email": "mia.goulan@yahoo.com",
+        "password": "Douxpcdjtrj3207",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.perez@hotmail.com",
+        "password": "Wdwxnlsmrcq7915",
+        "role": "padre"
+    },
+    {
+        "email": "ana.perez@yahoo.com",
+        "password": "Axyxhutzkec3528",
+        "role": "padre"
+    },
+    {
+        "email": "jose.soto@outlook.com",
+        "password": "Bvqovhrfkod1709",
+        "role": "padre"
+    },
+    {
+        "email": "mia.gonzales@yahoo.com",
+        "password": "Patpnnmbuvr6613",
+        "role": "padre"
+    },
+    {
+        "email": "martin.perez@gmail.com",
+        "password": "Azykasxxgnk8543",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.diaz@gmail.com",
+        "password": "Shraddjpdoy0488",
+        "role": "padre"
+    },
+    {
+        "email": "martin.martinez@outlook.com",
+        "password": "Tgchrjmasrb6389",
+        "role": "padre"
+    },
+    {
+        "email": "ana.schuff@gmail.com",
+        "password": "Bvazhsbuuve6579",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.ruiz@yahoo.com",
+        "password": "Hfuqgnjrbvp8701",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.diaz@hotmail.com",
+        "password": "Hpejsyhsuxo6745",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.soto@outlook.com",
+        "password": "Bvxyffvukqt9422",
+        "role": "padre"
+    },
+    {
+        "email": "martin.diaz@hotmail.com",
+        "password": "Gdazufpyscg3250",
+        "role": "padre"
+    },
+    {
+        "email": "juan.fernandez@hotmail.com",
+        "password": "Bytjuemdusj7371",
+        "role": "padre"
+    },
+    {
+        "email": "martin.lopez@outlook.com",
+        "password": "Ezzkdgcmkdv7116",
+        "role": "padre"
+    },
+    {
+        "email": "laura.fernandez@gmail.com",
+        "password": "Svkvujshkgn0919",
+        "role": "padre"
+    },
+    {
+        "email": "mia.gomez@hotmail.com",
+        "password": "Dheaprlpoji9688",
+        "role": "padre"
+    },
+    {
+        "email": "laura.soto@yahoo.com",
+        "password": "Lvdqsjgkbwn7429",
+        "role": "padre"
+    },
+    {
+        "email": "jose.gonzales@gmail.com",
+        "password": "Xjlwtbjdqvj0980",
+        "role": "padre"
+    },
+    {
+        "email": "martin.perez@gmail.com",
+        "password": "Fxlnyhmadzb4715",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.ruiz@hotmail.com",
+        "password": "Xpwvurjsaav9622",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.martinez@gmail.com",
+        "password": "Fphguibzkjc1319",
+        "role": "padre"
+    },
+    {
+        "email": "maria.martinez@gmail.com",
+        "password": "Amuombinmrr7664",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.ruiz@outlook.com",
+        "password": "Isgqvzuklxw1839",
+        "role": "padre"
+    },
+    {
+        "email": "martin.soto@yahoo.com",
+        "password": "Mnkmqifcxyx7691",
+        "role": "padre"
+    },
+    {
+        "email": "camila.perez@yahoo.com",
+        "password": "Hmdlmtwlzni6381",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.martinez@yahoo.com",
+        "password": "Efiquarqfrm4563",
+        "role": "padre"
+    },
+    {
+        "email": "martin.pettinato@hotmail.com",
+        "password": "Kuiujseyxla5721",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.gonzalez@yahoo.com",
+        "password": "Inkchiyzwzv9899",
+        "role": "padre"
+    },
+    {
+        "email": "juan.gonzales@yahoo.com",
+        "password": "Nqazckyudey7375",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.ruiz@yahoo.com",
+        "password": "Rkwbdjsnplj0349",
+        "role": "padre"
+    },
+    {
+        "email": "juan.rodriguez@yahoo.com",
+        "password": "Retqjvaqvmg7429",
+        "role": "padre"
+    },
+    {
+        "email": "camila.soto@yahoo.com",
+        "password": "Luaspczyhqu0825",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.pettinato@yahoo.com",
+        "password": "Aimmbqprptw8961",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.fernandez@hotmail.com",
+        "password": "Gvijbyhvfqs0474",
+        "role": "padre"
+    },
+    {
+        "email": "camila.soto@outlook.com",
+        "password": "Zgaxcdghqjp5529",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.diaz@yahoo.com",
+        "password": "Pyomlxgrwpv6624",
+        "role": "padre"
+    },
+    {
+        "email": "camila.diaz@hotmail.com",
+        "password": "Ytqhylwckna7642",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.fernandez@yahoo.com",
+        "password": "Nbzzqqttmaf9543",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.gomez@yahoo.com",
+        "password": "Ziozbvfurab3601",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.martinez@yahoo.com",
+        "password": "Bmaxdgpjbha4843",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.gonzales@yahoo.com",
+        "password": "Iirmghvjawl2795",
+        "role": "padre"
+    },
+    {
+        "email": "mia.soto@outlook.com",
+        "password": "Wmrlbehoiba7392",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.davo@hotmail.com",
+        "password": "Pbtcwbkulwn3176",
+        "role": "padre"
+    },
+    {
+        "email": "camila.goulan@gmail.com",
+        "password": "Kzxoebgbcem9570",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.goulan@gmail.com",
+        "password": "Zqslhvaxfmc3049",
+        "role": "padre"
+    },
+    {
+        "email": "lionel.soto@yahoo.com",
+        "password": "Emuofwtdhtf2897",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.perez@yahoo.com",
+        "password": "Rrmhkivcjxa4846",
+        "role": "padre"
+    },
+    {
+        "email": "camila.davo@yahoo.com",
+        "password": "Znfplkalqzh5222",
+        "role": "padre"
+    },
+    {
+        "email": "laura.pettinato@outlook.com",
+        "password": "Umgrdkpecvu0112",
+        "role": "padre"
+    },
+    {
+        "email": "juan.torres@yahoo.com",
+        "password": "Rtdbprkpwzl0309",
+        "role": "padre"
+    },
+    {
+        "email": "lucas.fernandez@outlook.com",
+        "password": "Fspikphpmyl9291",
+        "role": "padre"
+    },
+    {
+        "email": "ana.rodriguez@outlook.com",
+        "password": "Gjzgmrektkm9133",
+        "role": "padre"
+    },
+    {
+        "email": "camila.gonzalez@gmail.com",
+        "password": "Nnokbnkyhfr1477",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.diaz@hotmail.com",
+        "password": "Qickqibahzm7999",
+        "role": "padre"
+    },
+    {
+        "email": "cristiano.perez@gmail.com",
+        "password": "Vvwpettmnpc5771",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.gonzalez@yahoo.com",
+        "password": "Xitjqcwfejh9834",
+        "role": "padre"
+    },
+    {
+        "email": "juan.gonzalez@outlook.com",
+        "password": "Qxmkocspxkf0281",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.gonzalez@gmail.com",
+        "password": "Pjrciokpmqv8419",
+        "role": "padre"
+    },
+    {
+        "email": "juan.martinez@outlook.com",
+        "password": "Fqjavwbjoor7445",
+        "role": "padre"
+    },
+    {
+        "email": "carlos.goulan@yahoo.com",
+        "password": "Fcayjjbyczn6564",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.cabana@hotmail.com",
+        "password": "Qxjfrnpxnxz8009",
+        "role": "padre"
+    },
+    {
+        "email": "martin.gomez@hotmail.com",
+        "password": "Iuyigvkjgdm3613",
+        "role": "padre"
+    },
+    {
+        "email": "juan.cabana@outlook.com",
+        "password": "Kqvfzjekixd6017",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.torres@hotmail.com",
+        "password": "Hlsznowiyhl3925",
+        "role": "padre"
+    },
+    {
+        "email": "tatiana.fernandez@hotmail.com",
+        "password": "Uuyzhcavmva7083",
+        "role": "padre"
+    },
+    {
+        "email": "jose.diaz@hotmail.com",
+        "password": "Vxtvltfszwl8476",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.martinez@outlook.com",
+        "password": "Mgqrfcrmjcc8663",
+        "role": "padre"
+    },
+    {
+        "email": "sofia.fernandez@gmail.com",
+        "password": "Bbinyrltfcw1476",
+        "role": "padre"
+    },
+    {
+        "email": "jose.gonzales@outlook.com",
+        "password": "Jilorvshlqj1789",
+        "role": "padre"
+    },
+    {
+        "email": "mia.torres@hotmail.com",
+        "password": "Hwbfpkuczzd3607",
+        "role": "padre"
+    },
+    {
+        "email": "rodrigo.torres@gmail.com",
+        "password": "Akfetifwnxk3618",
+        "role": "padre"
+    },
+    {
+        "email": "adolf.müller.et21@gmail.com",
+        "password": "Yhrhywzdiot4519",
+        "role": "coordinador"
+    },
+    {
+        "email": "karmela.schneider..et21@hotmail.com",
+        "password": "Nnehommksaf0959",
+        "role": "coordinador"
+    },
+    {
+        "email": "enzo.galli.et21@yahoo.com",
+        "password": "Xbiljghwvbx4749",
+        "role": "preceptor"
+    },
+    {
+        "email": "daniela.greco.et21@hotmail.com",
+        "password": "Sridwoszklc2409",
+        "role": "preceptor"
+    },
+    {
+        "email": "federica.greco.et21@yahoo.com",
+        "password": "Gngcnibtiuo8243",
+        "role": "preceptor"
+    },
+    {
+        "email": "leonardo.moretti.et21@hotmail.com",
+        "password": "Ccullgnszjm4983",
+        "role": "preceptor"
+    },
+    {
+        "email": "carlo.greco.et21@outlook.com",
+        "password": "Awabirvlciy9775",
+        "role": "preceptor"
+    },
+    {
+        "email": "isabella.russo.et21@outlook.com",
+        "password": "Zvjedlauknh4673",
+        "role": "preceptor"
+    },
+    {
+        "email": "alessandro.colombo.et21@outlook.com",
+        "password": "Kerocfdhxei2671",
+        "role": "preceptor"
+    },
+    {
+        "email": "carlo.colombo.et21@yahoo.com",
+        "password": "Lzovplspafv4010",
+        "role": "preceptor"
+    },
+    {
+        "email": "martina.greco.et21@outlook.com",
+        "password": "Nuqulpoxcpa6704",
+        "role": "preceptor"
+    },
+    {
+        "email": "isabella.galli.et21@outlook.com",
+        "password": "Qcejmgptqrd5359",
+        "role": "preceptor"
+    },
+    {
+        "email": "héctor.moreno.et21@outlook.com",
+        "password": "Ohkojfshlxw4603",
+        "role": "profesor"
+    },
+    {
+        "email": "ricardo.morales.et21@outlook.com",
+        "password": "Rnaslgvpipq9563",
+        "role": "profesor"
+    },
+    {
+        "email": "paola.navarro.et21@hotmail.com",
+        "password": "Atydfpxfrjd6098",
+        "role": "profesor"
+    },
+    {
+        "email": "ricardo.cruz.et21@hotmail.com",
+        "password": "Gwloinhvhby1538",
+        "role": "profesor"
+    },
+    {
+        "email": "ricardo.mendoza.et21@hotmail.com",
+        "password": "Gvezgondang3689",
+        "role": "profesor"
+    },
+    {
+        "email": "elena.torres.et21@yahoo.com",
+        "password": "Wuliyhusrwb4220",
+        "role": "profesor"
+    },
+    {
+        "email": "ana.herrera.et21@hotmail.com",
+        "password": "Faqljtjnbto9476",
+        "role": "profesor"
+    },
+    {
+        "email": "maría.zapata.et21@outlook.com",
+        "password": "Nuxpqdbrqok4737",
+        "role": "profesor"
+    },
+    {
+        "email": "paola.herrera.et21@hotmail.com",
+        "password": "Htmvbpgeiec4196",
+        "role": "profesor"
+    },
+    {
+        "email": "miguel.morales.et21@yahoo.com",
+        "password": "Foidakreeqi0180",
+        "role": "profesor"
+    },
+    {
+        "email": "dolores.lópez.et21@hotmail.com",
+        "password": "Exiqnygxyjz2069",
+        "role": "profesor"
+    },
+    {
+        "email": "josé.ramos.et21@outlook.com",
+        "password": "Pfkswyjnoio9896",
+        "role": "profesor"
+    },
+    {
+        "email": "alberto.silva.et21@hotmail.com",
+        "password": "Ccmdcnqahji2309",
+        "role": "profesor"
+    },
+    {
+        "email": "alberto.mendoza.et21@gmail.com",
+        "password": "Nrzedzwzamq7528",
+        "role": "profesor"
+    },
+    {
+        "email": "maría josé.pérez.et21@gmail.com",
+        "password": "Lrdmurrbzoq9929",
+        "role": "profesor"
+    },
+    {
+        "email": "lucía.lópez.et21@outlook.com",
+        "password": "Xishygstsfr6224",
+        "role": "profesor"
+    },
+    {
+        "email": "héctor.pérez.et21@yahoo.com",
+        "password": "Otllnisacku9767",
+        "role": "profesor"
+    },
+    {
+        "email": "alberto.torres.et21@gmail.com",
+        "password": "Snnmkydlejr0646",
+        "role": "profesor"
+    },
+    {
+        "email": "susana.bravo.et21@yahoo.com",
+        "password": "Bapddolmxwg6721",
+        "role": "profesor"
+    },
+    {
+        "email": "ricardo.romero.et21@outlook.com",
+        "password": "Tkhvbbenefc8450",
+        "role": "profesor"
+    },
+    {
+        "email": "elena.castro.et21@outlook.com",
+        "password": "Htpofwyafnk0439",
+        "role": "profesor"
+    },
+    {
+        "email": "ricardo.alonso.et21@yahoo.com",
+        "password": "Oavxfekrlns0079",
+        "role": "profesor"
+    },
+    {
+        "email": "antonio.mendoza.et21@hotmail.com",
+        "password": "Apigrgmvcvx3520",
+        "role": "profesor"
+    },
+    {
+        "email": "maría.ríos.et21@hotmail.com",
+        "password": "Pngjjfuypas8052",
+        "role": "profesor"
+    },
+    {
+        "email": "antonio.ríos.et21@gmail.com",
+        "password": "Phgmhfifban0032",
+        "role": "profesor"
+    },
+    {
+        "email": "paola.gómez.et21@hotmail.com",
+        "password": "Rtabnbxmjlm8429",
+        "role": "profesor"
+    },
+    {
+        "email": "susana.silva.et21@yahoo.com",
+        "password": "Cdeafrjqtcl5195",
+        "role": "profesor"
+    },
+    {
+        "email": "maría.mendoza.et21@gmail.com",
+        "password": "Azzwtanxzct4240",
+        "role": "profesor"
+    },
+    {
+        "email": "antonio.sánchez.et21@outlook.com",
+        "password": "Ftyuyeyagqj3146",
+        "role": "profesor"
+    },
+    {
+        "email": "javier.ramos.et21@gmail.com",
+        "password": "Ifdjreltses8686",
+        "role": "profesor"
+    },
+    {
+        "email": "maría josé.cruz.et21@gmail.com",
+        "password": "Dcapcnjikif4329",
+        "role": "profesor"
+    },
+    {
+        "email": "juan.lópez.et21@gmail.com",
+        "password": "Laijuqmqhmq7412",
+        "role": "profesor"
+    },
+    {
+        "email": "carlos.pérez.et21@gmail.com",
+        "password": "Dquibejqsrb1020",
+        "role": "profesor"
+    },
+    {
+        "email": "juan.torres.et21@hotmail.com",
+        "password": "Cjoxmcslelv4078",
+        "role": "profesor"
+    },
+    {
+        "email": "luis.castro.et21@hotmail.com",
+        "password": "Rdozhcgvyay6658",
+        "role": "profesor"
+    },
+    {
+        "email": "josé.gonzález.et21@outlook.com",
+        "password": "Cxjltkzsvhi4584",
+        "role": "profesor"
+    },
+    {
+        "email": "luis.romero.et21@outlook.com",
+        "password": "Qghcufjyeol6841",
+        "role": "profesor"
+    },
+    {
+        "email": "javier.zapata.et21@outlook.com",
+        "password": "Pcmsoqdtpbv3241",
+        "role": "profesor"
+    },
+    {
+        "email": "ana.vargas.et21@outlook.com",
+        "password": "Ziosjxdtdkl3348",
+        "role": "profesor"
+    },
+    {
+        "email": "isabel.gonzález.et21@gmail.com",
+        "password": "Mtsxxqzsbnv7968",
+        "role": "profesor"
+    },
+    {
+        "email": "maría.velázquez.et21@yahoo.com",
+        "password": "Mhamqmjupdt8384",
+        "role": "profesor"
+    },
+    {
+        "email": "adriana.torres.et21@yahoo.com",
+        "password": "Qvlpawopxsw5687",
+        "role": "profesor"
+    },
+    {
+        "email": "carmen.mendoza.et21@yahoo.com",
+        "password": "Vchyputrhpb7796",
+        "role": "profesor"
+    },
+    {
+        "email": "ricardo.ramos.et21@hotmail.com",
+        "password": "Guqxvfonzgl6223",
+        "role": "profesor"
+    },
+    {
+        "email": "francisco.bravo.et21@hotmail.com",
+        "password": "Mualscblgvx3130",
+        "role": "profesor"
+    },
+    {
+        "email": "manuel.vargas.et21@yahoo.com",
+        "password": "Gnqaddgrfgp5220",
+        "role": "profesor"
+    },
+    {
+        "email": "francisco.romero.et21@yahoo.com",
+        "password": "Xqkrfytkdkq4170",
+        "role": "profesor"
+    },
+    {
+        "email": "josé.lópez.et21@yahoo.com",
+        "password": "Wzrbwihmztz8588",
+        "role": "profesor"
+    },
+    {
+        "email": "dolores.moreno.et21@hotmail.com",
+        "password": "Tllwyccvatz1948",
+        "role": "profesor"
+    },
+    {
+        "email": "pedro.velázquez.et21@outlook.com",
+        "password": "Smjqgtyganr1973",
+        "role": "profesor"
+    },
+    {
+        "email": "admin.fragata.@gmail.com",
+        "password": "pragATeThu",
+        "role": "admin"
+    }
+]

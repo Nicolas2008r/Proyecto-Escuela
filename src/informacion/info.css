@@ -1,0 +1,535 @@
+:root {
+    --primary: #3b82f6;
+    --primary-hover: #2563eb;
+    --background: #ffffff;
+    --foreground: #1f2937;
+    --accent: #f3f4f6;
+    --accent-hover: #e5e7eb;
+  }
+  
+  .dark {
+    --primary: #60a5fa;
+    --primary-hover: #3b82f6;
+    --background: #1f2937;
+    --foreground: #f9fafb;
+    --accent: #374151;
+    --accent-hover: #4b5563;
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--background);
+    color: var(--foreground);
+    transition: background-color 0.3s, color 0.3s;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  /* Header styles */
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--background);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  .nav-logo img {
+    height: 40px;
+    width: auto;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+  }
+
+  /* boton iniciar sesion */
+
+    .button-login {
+        display: inline-block; /* Asegura que el botón se comporte como un bloque en línea */
+        padding: 10px 20px; /* Espaciado interno del botón */
+        font-size: 16px; /* Tamaño de la fuente */
+        font-weight: 500; /* Peso de la fuente más suave */
+        color: #333; /* Color del texto (gris oscuro) */
+        background-color: #f8f9fa; /* Color de fondo suave (gris claro) */
+        border: 1px solid #ccc; /* Borde gris claro */
+        border-radius: 4px; /* Bordes redondeados */
+        cursor: pointer; /* Cambia el cursor al pasar el mouse */
+        transition: background-color 0.3s ease, border-color 0.3s ease; /* Transiciones suaves */
+    }
+
+    .button-login:hover {
+        background-color: #e2e6ea; /* Color de fondo más oscuro al pasar el mouse */
+        border-color: #888; /* Color del borde al pasar el mouse */
+    }
+
+    .button-login:active {
+        background-color: #d6d8db; /* Color de fondo al hacer clic */
+        border-color: #666; /* Color del borde al hacer clic */
+    }
+  
+  .search-form {
+    position: relative;
+    margin-right: 1rem;
+  }
+  
+  .search-input {
+    padding: 0.5rem 2.5rem 0.5rem 1rem;
+    border-radius: 20px;
+    border: 1px solid var(--accent);
+    background-color: var(--background);
+    color: var(--foreground);
+  }
+  
+  .search-button {
+    position: absolute;
+    right: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: var(--foreground);
+    cursor: pointer;
+  }
+  
+  .nav-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--foreground);
+    text-decoration: none;
+  }
+  
+  .nav-link {
+    color: var(--foreground);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover,
+  .nav-link.active {
+    color: var(--primary);
+  }
+  
+  .theme-toggle,
+  .mobile-menu-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    color: var(--foreground);
+  }
+  
+  .mobile-menu-toggle {
+    display: none;
+  }
+  
+  /* Dropdown menu styles */
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: var(--background);
+    min-width: 200px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    z-index: 1;
+    border-radius: 4px;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown-item {
+    color: var(--foreground);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s;
+  }
+  
+  .dropdown-item:hover {
+    background-color: var(--accent);
+  }
+  
+  /* Nested dropdown styles */
+  .nested-dropdown {
+    position: relative;
+  }
+  
+  .nested-dropdown-content {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background-color: var(--background);
+    min-width: 200px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    z-index: 1;
+    border-radius: 4px;
+  }
+  
+  .nested-dropdown:hover .nested-dropdown-content {
+    display: block;
+  }
+  
+/* Main content styles */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes shimmer {
+    0% { background-position: -1000px 0; }
+    100% { background-position: 1000px 0; }
+  }
+  
+  .informacion-title {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 20px; /* Reduce el margen inferior para acercar el contenido */
+    color: var(--foreground);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    position: center;
+    overflow: hidden;
+  }
+  
+  .informacion-title::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent
+    );
+    animation: shimmer 2s infinite;
+  }
+  
+  .informacion-body {
+    background-color: var(--background);
+    padding: 20px; /* Reduce el padding para que se vea más compacto */
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .informacion-body::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(
+      circle,
+      rgba(255, 255, 255, 0.1) 0%,
+      transparent 70%
+    );
+    transform: rotate(45deg);
+    transition: all 0.5s ease;
+    opacity: 0;
+  }
+  
+  .informacion-body:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+  }
+  
+  .informacion-body:hover::before {
+    opacity: 1;
+  }
+  
+  .informacion-body p {
+    line-height: 1.8;
+    margin-bottom: 15px; /* Reduce el margen inferior para que los párrafos estén más cerca */
+    transition: all 0.3s ease;
+  }
+  
+  .informacion-body p:hover {
+    transform: scale(1.02);
+  }
+  
+  @media (max-width: 768px) {
+    .informacion-title {
+      font-size: 2.5rem;
+    }
+  
+    .informacion-body {
+      padding: 20px;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .informacion-content,
+    .informacion-title::before,
+    .informacion-body,
+    .informacion-body::before,
+    .informacion-body p {
+      animation: none;
+      transition: none;
+    }
+  }
+
+/*Autoridades*/
+
+.autoridades-organigrama {
+    padding: 20px;
+    background-color: var(--background);
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.autoridades-box {
+    display: flex;
+    justify-content: space-around; /* Espacio entre los elementos */
+    margin: 10px 0; /* Espacio vertical entre filas */
+}
+
+.autoridades-item {
+    text-align: center;
+    margin: 5px; /* Espacio entre elementos */
+    padding: 10px;
+    background-color: var(--accent);
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.autoridades-item:hover {
+    background-color: var(--primary);
+    color: #ffffff;
+}
+
+.autoridades-item strong {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+/*Nuestra historia*/
+
+.nuestra-historia {
+    padding: 20px;
+    line-height: 1.6;
+    color: #333;
+}
+
+
+.nuestra-historia p {
+    margin: 10px 0;
+    text-align: justify;
+}
+
+/*objetivos*/
+
+.objetivos {
+    margin: 20px;
+    padding: 15px;
+    background-color: #f9f9f9; /* Color de fondo claro */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.objetivos h2 {
+    font-size: 24px; /* Tamaño de fuente del título */
+    margin-bottom: 15px; /* Espaciado inferior */
+    color: #333; /* Color del texto */
+}
+
+.objetivos h3 {
+    font-size: 20px; /* Tamaño de fuente de los subtítulos */
+    margin-top: 20px; /* Espaciado superior */
+    margin-bottom: 10px; /* Espaciado inferior */
+    color: #555; /* Color del texto */
+}
+
+.objetivos ul {
+    list-style-type: disc; /* Estilo de lista desordenada */
+    margin-left: 20px; /* Margen izquierdo */
+}
+
+.objetivos li {
+    font-size: 16px; /* Tamaño de fuente de los elementos de la lista */
+    margin-bottom: 10px; /* Espaciado inferior entre elementos de la lista */
+    color: #444; /* Color del texto */
+}
+
+/* perfil del precptor */
+
+.perfil-preceptor {
+    margin: 20px;
+    padding: 15px;
+    background-color: #f9f9f9; /* Color de fondo claro */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.perfil-preceptor h2 {
+    font-size: 24px; /* Tamaño de fuente del título */
+    margin-bottom: 15px; /* Espaciado inferior */
+    color: #333; /* Color del texto */
+}
+
+.perfil-preceptor ul {
+    list-style-type: disc; /* Estilo de lista desordenada */
+    margin-left: 20px; /* Margen izquierdo */
+}
+
+.perfil-preceptor li {
+    font-size: 16px; /* Tamaño de fuente de los elementos de la lista */
+    margin-bottom: 10px; /* Espaciado inferior entre elementos de la lista */
+    color: #444; /* Color del texto */
+}
+
+
+/*ciclo basico*/
+
+  .ciclo-basico-table {
+    width: 100%;
+    max-width: 1200px; /* Establece un ancho máximo si es necesario */
+    margin: 0 auto; /* Centra la tabla en el contenedor */
+    border-collapse: collapse;
+    margin-top: 20px; /* Espacio entre el título y la tabla */
+}
+
+/* Celdas de la tabla */
+.ciclo-basico-table th, 
+.ciclo-basico-table td {
+    padding: 12px 15px; /* Espacio interno en las celdas */
+    text-align: left; /* Alineación del texto */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* Línea divisoria entre filas */
+    position: relative; /* Asegúrate de que las celdas no estén afectadas por otros estilos */
+}
+  
+  .ciclo-basico-table th {
+    background-color: var(--background); /* Color de fondo del encabezado */
+    color: var(--foreground); /* Color del texto del encabezado */
+    font-weight: bold; /* Negrita para el encabezado */
+  }
+  
+  .ciclo-basico-table tr:hover {
+    background-color: rgba(0, 0, 0, 0.05); /* Color de fondo al pasar el mouse */
+  }
+  
+  .ciclo-basico-table a {
+    color: var(--primary); /* Asegúrate de que este color sea visible */
+    text-decoration: none; /* Sin subrayado por defecto */
+    font-weight: bold; /* Para hacer que el enlace sea más visible */
+    cursor: pointer; /* Asegúrate de que el cursor cambie al pasar sobre el enlace */
+    display: block; /* Asegúrate de que ocupen todo el espacio de la celda */
+    padding: 5px 0; /* Agrega algo de espacio alrededor del enlace */
+}
+  
+  .ciclo-basico-table a:hover {
+    text-decoration: underline; /* Subrayar al pasar el mouse */
+    color: var(--hover-color); /* Color de texto diferente al pasar el mouse */
+  }
+  
+  @media (max-width: 768px) {
+    .ciclo-basico-table {
+      width: 100%; /* Asegúrate de que ocupe el 100% del ancho en dispositivos pequeños */
+    }
+  }
+
+  /* Asegúrate de aplicar esto al contenedor que rodea la tabla */
+
+.informacion-content {
+    padding: 100px 0 60px;
+    margin-top: 60px;
+    animation: fadeIn 0.8s ease-out;
+    overflow-x: auto; /* Permite desplazamiento horizontal si es necesario */
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: var(--accent);
+    padding: 2rem 0;
+    margin-top: 4rem;
+  }
+  
+  .footer-text {
+    text-align: center;
+    font-size: 0.875rem;
+    opacity: 0.7;
+    color: var(--foreground);
+  }
+  
+  @media (max-width: 768px) {
+    nav {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .nav-links {
+      display: none;
+      width: 100%;
+      flex-direction: column;
+      align-items: flex-start;
+      margin-top: 1rem;
+    }
+  
+    .nav-links.open {
+      display: flex;
+    }
+  
+    .mobile-menu-toggle {
+      display: block;
+    }
+  
+    .search-form {
+      width: 100%;
+      margin-top: 1rem;
+    }
+  
+    .search-input {
+      width: 100%;
+    }
+  
+    .dropdown-content,
+    .nested-dropdown-content {
+      position: static;
+      box-shadow: none;
+      display: none;
+    }
+  
+    .dropdown-content.open,
+    .nested-dropdown-content.open {
+      display: block;
+    }
+  
+    .dropdown-item,
+    .nested-dropdown .dropdown-item {
+      padding-left: 1.5rem;
+    }
+  
+    .nested-dropdown .dropdown-item {
+      padding-left: 3rem;
+    }
+  }

@@ -1,0 +1,502 @@
+[
+    {
+        "nombre": "Héctor",
+        "apellido": "Moreno",
+        "dni": "33346126",
+        "email": "héctor.moreno@hotmail.com",
+        "telefono": "1189813106",
+        "materia": "Geografía",
+        "anio": "5to",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Morales",
+        "dni": "31112590",
+        "email": "ricardo.morales@hotmail.com",
+        "telefono": "1185947440",
+        "materia": "Geografía",
+        "anio": "1ro",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Paola",
+        "apellido": "Navarro",
+        "dni": "20204096",
+        "email": "paola.navarro@hotmail.com",
+        "telefono": "1145205330",
+        "materia": "Historia",
+        "anio": "6to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Cruz",
+        "dni": "29513667",
+        "email": "ricardo.cruz@outlook.com",
+        "telefono": "1175997827",
+        "materia": "Lengua",
+        "anio": "6to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Mendoza",
+        "dni": "21189320",
+        "email": "ricardo.mendoza@hotmail.com",
+        "telefono": "1147700596",
+        "materia": "Matemáticas",
+        "anio": "4to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "Torres",
+        "dni": "31498893",
+        "email": "elena.torres@yahoo.com",
+        "telefono": "1165577312",
+        "materia": "Matemáticas",
+        "anio": "3ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Herrera",
+        "dni": "31379610",
+        "email": "ana.herrera@gmail.com",
+        "telefono": "1119091014",
+        "materia": "Matemáticas",
+        "anio": "6to",
+        "division": "2da"
+    },
+    {
+        "nombre": "María",
+        "apellido": "Zapata",
+        "dni": "31498222",
+        "email": "maría.zapata@gmail.com",
+        "telefono": "1172490577",
+        "materia": "Ciencias",
+        "anio": "4to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Paola",
+        "apellido": "Herrera",
+        "dni": "22729317",
+        "email": "paola.herrera@outlook.com",
+        "telefono": "1189033698",
+        "materia": "Historia",
+        "anio": "5to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Miguel",
+        "apellido": "Morales",
+        "dni": "24673245",
+        "email": "miguel.morales@outlook.com",
+        "telefono": "1150045171",
+        "materia": "Matemáticas",
+        "anio": "6to",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Dolores",
+        "apellido": "López",
+        "dni": "21878857",
+        "email": "dolores.lópez@gmail.com",
+        "telefono": "1171357935",
+        "materia": "Ciencias",
+        "anio": "5to",
+        "division": "2da"
+    },
+    {
+        "nombre": "José",
+        "apellido": "Ramos",
+        "dni": "32198736",
+        "email": "josé.ramos@yahoo.com",
+        "telefono": "1189532132",
+        "materia": "Geografía",
+        "anio": "3ro",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Alberto",
+        "apellido": "Silva",
+        "dni": "20514879",
+        "email": "alberto.silva@outlook.com",
+        "telefono": "1161858368",
+        "materia": "Matemáticas",
+        "anio": "5to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Alberto",
+        "apellido": "Mendoza",
+        "dni": "23031150",
+        "email": "alberto.mendoza@gmail.com",
+        "telefono": "1134124308",
+        "materia": "Ciencias",
+        "anio": "2do",
+        "division": "2da"
+    },
+    {
+        "nombre": "María José",
+        "apellido": "Pérez",
+        "dni": "34333192",
+        "email": "maría josé.pérez@gmail.com",
+        "telefono": "1193510640",
+        "materia": "Geografía",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "López",
+        "dni": "25814851",
+        "email": "lucía.lópez@hotmail.com",
+        "telefono": "1133705465",
+        "materia": "Geografía",
+        "anio": "2do",
+        "division": "2da"
+    },
+    {
+        "nombre": "Héctor",
+        "apellido": "Pérez",
+        "dni": "35368021",
+        "email": "héctor.pérez@outlook.com",
+        "telefono": "1180073006",
+        "materia": "Geografía",
+        "anio": "3ro",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Alberto",
+        "apellido": "Torres",
+        "dni": "28674871",
+        "email": "alberto.torres@yahoo.com",
+        "telefono": "1110458113",
+        "materia": "Geografía",
+        "anio": "4to",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Susana",
+        "apellido": "Bravo",
+        "dni": "31436938",
+        "email": "susana.bravo@hotmail.com",
+        "telefono": "1193055655",
+        "materia": "Geografía",
+        "anio": "5to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Romero",
+        "dni": "33030955",
+        "email": "ricardo.romero@yahoo.com",
+        "telefono": "1120446600",
+        "materia": "Lengua",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Elena",
+        "apellido": "Castro",
+        "dni": "25652010",
+        "email": "elena.castro@hotmail.com",
+        "telefono": "1199350277",
+        "materia": "Educación Física",
+        "anio": "3ro",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Alonso",
+        "dni": "28903152",
+        "email": "ricardo.alonso@hotmail.com",
+        "telefono": "1152990269",
+        "materia": "Lengua",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Antonio",
+        "apellido": "Mendoza",
+        "dni": "33357475",
+        "email": "antonio.mendoza@yahoo.com",
+        "telefono": "1174571654",
+        "materia": "Ciencias",
+        "anio": "4to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "María",
+        "apellido": "Ríos",
+        "dni": "23645185",
+        "email": "maría.ríos@hotmail.com",
+        "telefono": "1141193640",
+        "materia": "Matemáticas",
+        "anio": "4to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Antonio",
+        "apellido": "Ríos",
+        "dni": "30289891",
+        "email": "antonio.ríos@gmail.com",
+        "telefono": "1183488535",
+        "materia": "Historia",
+        "anio": "2do",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Paola",
+        "apellido": "Gómez",
+        "dni": "23615408",
+        "email": "paola.gómez@outlook.com",
+        "telefono": "1114086850",
+        "materia": "Lengua",
+        "anio": "4to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Susana",
+        "apellido": "Silva",
+        "dni": "22007458",
+        "email": "susana.silva@outlook.com",
+        "telefono": "1121100328",
+        "materia": "Matemáticas",
+        "anio": "6to",
+        "division": "2da"
+    },
+    {
+        "nombre": "María",
+        "apellido": "Mendoza",
+        "dni": "34777449",
+        "email": "maría.mendoza@yahoo.com",
+        "telefono": "1168213372",
+        "materia": "Educación Física",
+        "anio": "4to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Antonio",
+        "apellido": "Sánchez",
+        "dni": "20674917",
+        "email": "antonio.sánchez@gmail.com",
+        "telefono": "1146182376",
+        "materia": "Educación Física",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Ramos",
+        "dni": "21467347",
+        "email": "javier.ramos@yahoo.com",
+        "telefono": "1110221399",
+        "materia": "Educación Física",
+        "anio": "5to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "María José",
+        "apellido": "Cruz",
+        "dni": "20884940",
+        "email": "maría josé.cruz@outlook.com",
+        "telefono": "1177321551",
+        "materia": "Geografía",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "López",
+        "dni": "34726100",
+        "email": "juan.lópez@outlook.com",
+        "telefono": "1110720473",
+        "materia": "Geografía",
+        "anio": "2do",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Pérez",
+        "dni": "33233438",
+        "email": "carlos.pérez@hotmail.com",
+        "telefono": "1125545914",
+        "materia": "Geografía",
+        "anio": "6to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Torres",
+        "dni": "35787312",
+        "email": "juan.torres@gmail.com",
+        "telefono": "1152002349",
+        "materia": "Geografía",
+        "anio": "4to",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Castro",
+        "dni": "33485063",
+        "email": "luis.castro@gmail.com",
+        "telefono": "1125485184",
+        "materia": "Educación Física",
+        "anio": "3ro",
+        "division": "3ra"
+    },
+    {
+        "nombre": "José",
+        "apellido": "González",
+        "dni": "29309652",
+        "email": "josé.gonzález@hotmail.com",
+        "telefono": "1128866472",
+        "materia": "Historia",
+        "anio": "6to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Romero",
+        "dni": "22475220",
+        "email": "luis.romero@hotmail.com",
+        "telefono": "1145086653",
+        "materia": "Ciencias",
+        "anio": "2do",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Zapata",
+        "dni": "30750261",
+        "email": "javier.zapata@hotmail.com",
+        "telefono": "1195976290",
+        "materia": "Geografía",
+        "anio": "6to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Vargas",
+        "dni": "26938967",
+        "email": "ana.vargas@gmail.com",
+        "telefono": "1143590454",
+        "materia": "Matemáticas",
+        "anio": "4to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "González",
+        "dni": "35973785",
+        "email": "isabel.gonzález@hotmail.com",
+        "telefono": "1125858826",
+        "materia": "Geografía",
+        "anio": "4to",
+        "division": "2da"
+    },
+    {
+        "nombre": "María",
+        "apellido": "Velázquez",
+        "dni": "28829327",
+        "email": "maría.velázquez@gmail.com",
+        "telefono": "1140853219",
+        "materia": "Ciencias",
+        "anio": "1ro",
+        "division": "1ra"
+    },
+    {
+        "nombre": "Adriana",
+        "apellido": "Torres",
+        "dni": "22923347",
+        "email": "adriana.torres@outlook.com",
+        "telefono": "1173010557",
+        "materia": "Educación Física",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Carmen",
+        "apellido": "Mendoza",
+        "dni": "26842352",
+        "email": "carmen.mendoza@hotmail.com",
+        "telefono": "1110806600",
+        "materia": "Historia",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Ramos",
+        "dni": "33021548",
+        "email": "ricardo.ramos@yahoo.com",
+        "telefono": "1148345930",
+        "materia": "Ciencias",
+        "anio": "3ro",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Francisco",
+        "apellido": "Bravo",
+        "dni": "35428129",
+        "email": "francisco.bravo@yahoo.com",
+        "telefono": "1156492518",
+        "materia": "Ciencias",
+        "anio": "6to",
+        "division": "3ra"
+    },
+    {
+        "nombre": "Manuel",
+        "apellido": "Vargas",
+        "dni": "25475832",
+        "email": "manuel.vargas@gmail.com",
+        "telefono": "1113680187",
+        "materia": "Lengua",
+        "anio": "2do",
+        "division": "2da"
+    },
+    {
+        "nombre": "Francisco",
+        "apellido": "Romero",
+        "dni": "25264544",
+        "email": "francisco.romero@gmail.com",
+        "telefono": "1126160540",
+        "materia": "Lengua",
+        "anio": "2do",
+        "division": "3ra"
+    },
+    {
+        "nombre": "José",
+        "apellido": "López",
+        "dni": "30942150",
+        "email": "josé.lópez@hotmail.com",
+        "telefono": "1139281649",
+        "materia": "Geografía",
+        "anio": "1ro",
+        "division": "2da"
+    },
+    {
+        "nombre": "Dolores",
+        "apellido": "Moreno",
+        "dni": "34314163",
+        "email": "dolores.moreno@outlook.com",
+        "telefono": "1122197660",
+        "materia": "Ciencias",
+        "anio": "5to",
+        "division": "2da"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Velázquez",
+        "dni": "33941764",
+        "email": "pedro.velázquez@yahoo.com",
+        "telefono": "1117985189",
+        "materia": "Geografía",
+        "anio": "1ro",
+        "division": "2da"
+    }
+]
