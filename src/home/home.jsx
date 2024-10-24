@@ -1,9 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import axios from 'axios';
 import './home.css';
+<link rel="shortcut icon" href="img/logo.png" />
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState('inicio');
+  const [searchQuery, setSearchQuery] = useState(''); // Estado para la consulta de búsqueda
+  const [searchResults, setSearchResults] = useState([]); // Estado para los resultados de búsqueda
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -30,6 +34,16 @@ export default function Home() {
     { id: 3, name: 'Física', grade: 'A-', professor: 'Prof. Brown' },
     { id: 4, name: 'Historia', grade: 'B', professor: 'Dra. Davis' },
   ];
+
+  // Función para buscar alumnos
+  const buscarAlumnos = async () => {
+    try {
+      const response = await axios.post('/api/search', { query: searchQuery });
+      setSearchResults(response.data);
+    } catch (error) {
+      console.error('Error al buscar alumnos:', error);
+    }
+  };
 
   const renderContent = () => {
     switch (activeTab) {
@@ -71,10 +85,47 @@ export default function Home() {
         );
       case 'buscador':
         return (
-          <div className="search-section">
+          <div className="seccion-busqueda">
             <h2>Buscador</h2>
-            <input type="text" placeholder="Buscar..." className="search-input" />
-            <button className="search-button">Buscar</button>
+            <div className="formulario-busqueda">
+              <input
+                type="text"
+                placeholder="Buscar..."
+                className="entrada-busqueda"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+              />
+              <button className="boton-busqueda" onClick={buscarAlumnos}>
+                Buscar
+              </button>
+            </div>
+            {searchResults.length > 0 && (
+              <div className="resultados-busqueda">
+                <h3>Resultados de la búsqueda:</h3>
+                <div className="contenedor-tabla">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Año</th>
+                        <th>Email</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {searchResults.map((alumno) => (
+                        <tr key={alumno.id}>
+                          <td>{alumno.nombre}</td>
+                          <td>{alumno.apellido}</td>
+                          <td>{alumno.anio}</td>
+                          <td>{alumno.email}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            )}
           </div>
         );
       case 'contactar':

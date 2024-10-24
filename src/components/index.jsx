@@ -375,38 +375,44 @@ function AcademicSection() {
     <section id="academic" className="py-16">
       <div className="container">
         <h2 className="section-title">Programas Académicos</h2>
-        <div className="grid  grid-cols-2 gap-8">
+        <div className="grid grid-cols-2 gap-8">
           <div className="card">
             <div className="card-content">
               <h3 className="card-title">Maestro Mayor de Obras</h3>
-              <p className="mb-4">Forma profesionales capaces de gestionar y ejecutar proyectos de construcción, con un enfoque en la sostenibilidad y la innovación.</p>
-              <button className="btn btn-primary">
-                Más información
-              </button>
+              <p className="mb-4">
+                Forma profesionales capaces de gestionar y ejecutar proyectos de construcción, con un enfoque en la sostenibilidad y la innovación.
+              </p>
+              <button className="btn btn-primary">Más información</button>
             </div>
           </div>
           <div className="card">
             <div className="card-content">
               <h3 className="card-title">Técnico en Computación</h3>
-              <p className="mb-4">Prepara expertos en tecnologías de la información, desarrollo de software y sistemas computacionales para la era digital.</p>
-              <button className="btn btn-primary">
-                Más información
-              </button>
+              <p className="mb-4">
+                Prepara expertos en tecnologías de la información, desarrollo de software y sistemas computacionales para la era digital.
+              </p>
+              <button className="btn btn-primary">Más información</button>
             </div>
           </div>
         </div>
+
         <div className="mt-12">
           <h3 className="section-title">Nuestras Instalaciones</h3>
           <div className="relative h-[400px] rounded-lg overflow-hidden shadow-xl">
             <motion.div
               key={currentIndex}
               animate={controls}
-              className="absolutes inset-0"
+              className="absolute inset-0"
             >
               <img
                 src={schoolImages[currentIndex]}
                 alt={`Instalación ${currentIndex + 1}`}
-                className="w-full h-full object-cover"
+                style={{
+                  width: '100%',
+                  height: 'auto',
+                  objectFit: 'cover',
+                  display: 'block',
+                }}
               />
             </motion.div>
           </div>
@@ -415,6 +421,7 @@ function AcademicSection() {
     </section>
   )
 }
+
 
 function EnrollmentSection() {
   const steps = [
